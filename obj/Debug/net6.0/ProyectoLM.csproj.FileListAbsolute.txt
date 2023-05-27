@@ -1,0 +1,15 @@
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\bin\Debug\net6.0\ProyectoLM.exe
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\bin\Debug\net6.0\ProyectoLM.deps.json
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\bin\Debug\net6.0\ProyectoLM.runtimeconfig.json
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\bin\Debug\net6.0\ProyectoLM.dll
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\bin\Debug\net6.0\ProyectoLM.pdb
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\obj\Debug\net6.0\ProyectoLM.csproj.AssemblyReference.cache
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\obj\Debug\net6.0\ProyectoLM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\obj\Debug\net6.0\ProyectoLM.AssemblyInfoInputs.cache
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\obj\Debug\net6.0\ProyectoLM.AssemblyInfo.cs
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\obj\Debug\net6.0\ProyectoLM.csproj.CoreCompileInputs.cache
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\obj\Debug\net6.0\ProyectoLM.dll
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\obj\Debug\net6.0\refint\ProyectoLM.dll
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\obj\Debug\net6.0\ProyectoLM.pdb
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\obj\Debug\net6.0\ProyectoLM.genruntimeconfig.cache
+C:\Users\R2D2R\source\repos\ProyectoLM\ProyectoLM\obj\Debug\net6.0\ref\ProyectoLM.dll
